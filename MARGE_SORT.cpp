@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+asdasd
 //funcao para intercalar
 void intercala(int A[],int p,int q,int r){
     //declaracao de variaveis temporarias para ordenacao
